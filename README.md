@@ -23,7 +23,7 @@ This repository is the official implementation of the [CVPR 2023](https://cvpr20
 
 ## News
 
-**[2023/07/04]** The [checkpoint]((https://drive.google.com/file/d/1OKBytt6N6BdRa9FWmS7F1-YvF0YectBv/view?usp=drive_link)) for [Argoverse 2 marginal prediction](https://eval.ai/web/challenges/challenge-page/1719/leaderboard/4098) is released. Give it a try!  
+**[2023/07/04]** The [checkpoint](https://drive.google.com/file/d/1OKBytt6N6BdRa9FWmS7F1-YvF0YectBv/view?usp=drive_link) for [Argoverse 2 marginal prediction](https://eval.ai/web/challenges/challenge-page/1719/leaderboard/4098) is released. Give it a try!  
 **[2023/06/29]** The code for [Argoverse 2 marginal prediction](https://eval.ai/web/challenges/challenge-page/1719/leaderboard/4098) is released. Enjoy it:)    
 **[2023/06/18]** [QCNeXt](https://arxiv.org/abs/2306.10508), the extended version of QCNet, has won the championship of [Argoverse 2 Multi-Agent Motion Forecasting Challenge](https://www.argoverse.org/tasks.html) at [CVPR 2023 Workshop on Autonomous Driving (WAD)](https://cvpr2023.wad.vision/).  
 **[2023/02/28]** [QCNet](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf) is accepted by [CVPR 2023](https://cvpr2023.thecvf.com/).
